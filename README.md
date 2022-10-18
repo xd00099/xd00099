@@ -56,10 +56,10 @@
 
 ##### Some of my projects
 
-[![SocialWall](https://img.shields.io/badge/-SocialWall-000000?style=flat)](https://github.com/bitwarden)
-[![AllocationTool](https://img.shields.io/badge/-FacultyTool-000000?style=flat)](https://github.com/darkreader/darkreader)
-[![ImageCaption](https://img.shields.io/badge/-ImageCaption-000000?style=flat)](https://github.com/gorhill/uBlock)
-[![Cyberpunk](https://img.shields.io/badge/-CyberpunkAds-000000?style=flat)](ttps://github.com/meganz/)
+[![SocialWall](https://img.shields.io/badge/-SocialWall-000000?style=flat)](https://social-wall.netlify.app/)
+[![AllocationTool](https://img.shields.io/badge/-FacultyTool-000000?style=flat)](https://github.com/xd00099/hdsi_faculty_tool)
+[![ImageCaption](https://img.shields.io/badge/-ImageCaption-000000?style=flat)](https://github.com/xd00099/Image-Captioning-LSTM)
+[![Cyberpunk](https://img.shields.io/badge/-CyberpunkAds-000000?style=flat)](https://xd00099.github.io/Cyberpunk_2077/)
 
 
 ⭐️ From [Du](https://github.com/xd00099)
