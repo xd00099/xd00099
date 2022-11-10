@@ -56,7 +56,7 @@
 
 ##### Some of my projects
 
-[![SocialWall](https://img.shields.io/badge/-SocialWall-000000?style=flat)](https://social-wall.netlify.app/)
+[![SocialWall](https://img.shields.io/badge/-SocialWall-000000?style=flat)](https://github.com/xd00099/SocialWall)
 [![AllocationTool](https://img.shields.io/badge/-FacultyTool-000000?style=flat)](https://xd00099.github.io/hdsi_faculty_tool/)
 [![ImageCaption](https://img.shields.io/badge/-ImageCaption-000000?style=flat)](https://github.com/xd00099/Image-Captioning-LSTM)
 [![Cyberpunk](https://img.shields.io/badge/-CyberpunkAds-000000?style=flat)](https://xd00099.github.io/Cyberpunk_2077/)
