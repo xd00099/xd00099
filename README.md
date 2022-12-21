@@ -3,7 +3,7 @@
 ##### Hi, I'm Du:
 
 - 🎓 Current Computer science graduate student from UC Berkeley. Data science bachelor's from UCSD.
-- ⚡ Specialization in Data Science | Machine/Deep learning | NLP | Full Stack Web development | App Development
+- ⚡ Specialization in Data Science | Machine/Deep learning | NLP | Full Stack Web development | Mobile Development
 - 🌱 Highly interested in building AI driven software, working on ML infrastructure
 - :test_tube: Currently focus on deep learning related, computer vision tasks, parallel computing and preparing to make the industry transition
 - :speech_balloon: Ask me about machine learning, full-stack web, and connect me!
