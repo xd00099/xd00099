@@ -4,7 +4,7 @@
 
 - 🎓 Current Computer science graduate student from UC Berkeley. Data science bachelor's from UCSD.
 - ⚡ Specialization in Data Science | Machine/Deep learning | NLP | Full Stack Web development | Mobile Development
-- 🌱 Highly interested in building AI driven software, working on ML infrastructure
+- 🌱 Highly interested in building AI driven software
 - :test_tube: Currently focus on deep learning related, computer vision tasks, parallel computing and preparing to make the industry transition
 - :speech_balloon: Ask me about machine learning, full-stack web, and connect me!
 - :mailbox: How to reach me:
