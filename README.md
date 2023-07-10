@@ -2,12 +2,6 @@
 
 ##### Hi, I'm Du:
 
-- 🎓 Current Computer science graduate student from UC Berkeley. Data science bachelor's from UCSD.
-- ⚡ Specialization in Data Science | Machine/Deep learning | NLP | Full Stack Web development | Mobile Development
-- 🌱 Highly interested in building AI driven software
-- :test_tube: Currently focus on deep learning related, computer vision tasks, system performances and intelligent software UI.
-- :speech_balloon: Ask me about machine learning, full-stack web, and connect me!
-- :mailbox: How to reach me:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xd00099@berkeley.edu)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/du-xiang)
