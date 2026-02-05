@@ -3,7 +3,6 @@
 ##### Hi, I'm Du:
 
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xd00099@berkeley.edu)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/du-xiang)
 [![du-xiang.com](https://img.shields.io/badge/duxiang.com-000000?style=for-the-badge&logo=Safari&logoColor=white)](https://du-xiang.com/)
 
